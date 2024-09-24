@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "DALL·E 2024-09-24 00.44.01 - A modern app icon for a daily scrum application. The design is minimalistic and features a clean, round shape. The icon includes visual elements like .png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "DALL·E 2024-09-24 00.44.01 - A modern app icon for a daily scrum application. The design is minimalistic and features a clean, round shape. The icon includes visual elements like  1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "DALL·E 2024-09-24 00.44.01 - A modern app icon for a daily scrum application. The design is minimalistic and features a clean, round shape. The icon includes visual elements like  2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
